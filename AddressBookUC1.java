@@ -5,13 +5,13 @@ public class AddressBookUC1 {
 	public static void main(String args[]) {
 		 Contact person = new Contact();
 		
-		person.setFirstname("Rushikesh");
-		person.setLastname("Bhosle");
-		person.setCity("Latur");
-		person.setEmail("rushi@gmail.com");
-		person.setAddress("kalepadal Pune");
+		person.setFirstname("shivani");
+		person.setLastname("pawar");
+		person.setCity("partur");
+		person.setEmail("shiv@gmail.com");
+		person.setAddress("ushmanpura aungarabad");
 		person.setState("Maharashtra");
-		person.setZip(410056);
+		person.setZip(431501);
 		person.setPhonenumber(1234567890); 
 		
 		System.out.println(person);
